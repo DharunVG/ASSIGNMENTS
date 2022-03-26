@@ -1,15 +1,12 @@
 import java.util.*;
 
-public class dist
+public class shortestdist
 {
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
-		double x1 = sc.nextDouble();
-		double y1= sc.nextDouble();
-		double x2=sc.nextDouble();
-		double y2=sc.nextDouble();
+		Scanner shortdist = new Scanner(System.in);
+		double a1 = shortdist.nextDouble();double b1= shortdist.nextDouble();double a2=shortdist.nextDouble();double b2=shortdist.nextDouble();
 		
 		
-		System.out.println(Math.sqrt((y2 - y1) * (y2 - y1) + (x2 - x1) * (x2 - x1)));
+		System.out.println(Math.sqrt((b2 - b1) * (b2 - b1) + (a2 - a1) * (a2 - a1)));
 	}
 }
