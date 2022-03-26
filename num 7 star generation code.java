@@ -3,7 +3,6 @@ import java.util.*;
 public class star
 {
 	public static void main(String[] args) {
-		Scanner sc = new Scanner(System.in);
 		int row = 4;
 		int space=0;
 		for (int i=0; i<row; i++)   
