@@ -11,5 +11,9 @@
                 
 3. **num 7 star generation code.java **
 
-                This code is optimized to print a star using number 7. For which the input the size is is mentioned by me. 
+                This code is optimized to print a star using number 7. For which the input the size is is mentioned by me.
+                
+4. **Nodejs-REST-API-master**
+
+                This is a sample code in which error handeling is acheived using REST.api.
 
